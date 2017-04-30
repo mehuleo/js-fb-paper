@@ -1,0 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto:300,500,700);
+/*TODO: load local fonts*/
+
+body {
+    font-family: 'Lato';
+    font-size: 100%;
+    font-weight: 400;
+    color: #333;
+}
